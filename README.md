@@ -46,9 +46,7 @@ and the     2156
 ```
 
 ## Структура проекта
-
 ```
-BigramAnalytics/
 ├── mapper.py      # Job 1: извлечение биграмм
 ├── reducer.py     # Job 1: подсчёт документов
 ├── mapper2.py     # Job 2: инверсия для сортировки
