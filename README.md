@@ -26,14 +26,19 @@
 | Term Frequency | "machine learning" — 100 раз в одной статье |
 | Document Frequency | "machine learning" — в 3000 из 4000 статей |
 
-## Результаты
+## Примеры результаты
 
 ```
-of the      3847
-in the      3652
-to the      2891
-on the      2234
-and the     2156
+machine learning    2847
+social media    2134
+real time    1856
+customer experience    1423
+case study    1198
+best practices    987
+long term    834
+small business    756
+market share    692
+data driven    543
 ...
 ```
 
